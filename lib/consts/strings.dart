@@ -1,3 +1,32 @@
 const appname = "eMart";
 const appversion = "Version 1.0.0";
-const credits = "@Baaba Devs";
+const credits = "Copyright @Emart | Kaustav Sengupta";
+const name = "Name";
+const nameHint = "John Doe";
+const email = "Email";
+const emailHint = "admin@admin.com";
+const password = "Password";
+const retupePassword = "Retype password";
+const passwordlHint = "********";
+const forgetPassword = "Forgot Password?";
+const logIn = "Log in";
+const signUp = "Sign up";
+const createNewAccount = "Create new account";
+const loginWith = "Log in with";
+const regWithPhonw = "Register with phone number";
+const privacyPolicy = "Privacy Policy";
+const termsAndCondition = "Terms and Conditions";
+const alreadyHaveacc = "Already have a account? ";
+
+//Home Strings
+const home = "Home",
+    categories = "Categories",
+    cart = "Cart",
+    account = "Account";
+const searchAnything = "Search Anything... ",
+      todaysDeal = "Today's Deal",
+      flashSale = "Flash Sale",
+      topSellers = "Top Sellers",
+      brand = "Brand",
+      topCatergory = "Top Categories",
+      featuredCat = "Featured Categories";
